@@ -3,7 +3,7 @@
  ##  Hi 👋, I’m Kanhaiya Mandal
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me kanhaiya3152@gmail.com
+- 📫 How to reach me : [Email](mailto:kanhaiya3152@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karan_00230) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanhaiya-mandal-64581128a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Devil_42692) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhaiya3152@gmail.com) 
