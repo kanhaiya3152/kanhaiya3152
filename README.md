@@ -1,8 +1,8 @@
 # 💫 About Me:
 
  ##  Hi 👋, I’m Kanhaiya Mandal
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Reactjs
 - 📫 How to reach me : [Email](mailto:kanhaiya3152@gmail.com)
 
 ## 🌐 Socials:
