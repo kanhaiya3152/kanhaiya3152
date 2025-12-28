@@ -2,7 +2,7 @@
 
  ##  Hi 👋, I’m Kanhaiya Mandal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me : [Email](mailto:kanhaiya3152@gmail.com)
 
 ## 🌐 Socials:
